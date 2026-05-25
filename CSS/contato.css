@@ -1,0 +1,24 @@
+#titulo{
+background-color: rgb(230, 223, 7);
+text-align: center;
+color: rgb(214, 146, 11);
+padding: 15px;
+font-size: larger;
+}
+#menu{
+   background-color: rgb(253, 161, 1);
+text-align: center;
+padding: 10px;
+
+}
+nav a{
+text-decoration: none;
+margin: 0 5;
+   }
+
+   #card{
+    background-color: rgb(255, 251, 0);
+   width: 70%;
+   text-align: center;
+margin-left: 150px;
+}
